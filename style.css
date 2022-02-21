@@ -1,0 +1,111 @@
+.site{
+
+  width: 90%;
+}
+
+#title{
+
+  
+  width: 17.87%
+}
+
+h1{
+
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #fd07c0;
+    font-size: 3.375em;
+    line-height: 40px;
+    font-weight: 400;
+    height: 47px;
+    width: 168px;
+    position: fixed;
+    margin-left: 30px;
+    margin-top: 25px;
+
+}
+
+#menu{
+
+  position: fixed;
+  margin-top: 25px;
+  margin-left: -10px;
+  padding-top: 80px;
+  color: inherit;
+  width: 30%;
+
+}
+
+#menu2{
+
+  position: fixed;
+  margin-left: 40px;
+  padding-top: 17px;
+
+}
+
+.menu{
+
+  font-family: 'Source Sans Pro', sans-serif;
+  text-decoration: none;
+  color: #01e9f1;
+  font-size: 2.80em;
+  line-height: 50px;
+  letter-spacing: 1px;
+}
+
+.menu2{
+
+  font-family: 'Source Sans Pro', sans-serif;
+  text-decoration: none;
+  color: #a9f101;
+  font-size: 1.66em;
+  line-height: 17.6px;
+  letter-spacing: 1px;
+}
+
+.author{
+
+  font-family: 'Source Sans Pro', sans-serif;
+  text-decoration: none;
+  color: #444444;
+  font-size: 11px;
+  color: #444444;
+}
+
+ul{
+
+    list-style: none;
+
+}
+
+.menu:hover{
+
+  color: #fd07c0;
+  font-weight: bold;
+}
+
+.menu2:hover{
+
+  color: #fd07c0;
+  font-weight: bold;
+}
+
+.menu:active{
+
+  color: #fd07c0;
+  font-weight: bold;
+}
+
+
+.photo{
+
+  margin-top: 55px;
+  width: 100%;
+}
+
+img{
+
+	margin: 25px;
+  margin-left: 290px;
+	width: 80%;
+}
