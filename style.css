@@ -28,9 +28,8 @@ h1{
   position: fixed;
   margin-top: 45px;
   margin-left: -10px;
-  padding-top: 80px;
+  padding-top: 50px;
   color: inherit;
-  width: 30%;
 
 }
 
@@ -43,6 +42,7 @@ h1{
   line-height: 50px;
   letter-spacing: 1px;
   float:none;
+
 }
 
 .menu:hover{
@@ -75,6 +75,23 @@ h1{
   letter-spacing: 1px;
 }
 
+.menu_small{
+
+  font-family: 'Source Sans Pro', sans-serif;
+  text-decoration: none;
+  color: #000000;
+  font-size: 1.80em;
+  line-height: 50px;
+  letter-spacing: 1px;
+  float:none;
+}
+
+.menu_small:hover{
+
+  color: #fd07c0;
+  font-weight: bold;
+}
+
 .author{
 
   font-family: 'Source Sans Pro', sans-serif;
@@ -104,6 +121,12 @@ img{
 	width: 80%;
 }
 
+#vertical{
+
+  width: 38.7%;
+
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -126,8 +149,10 @@ h2 {
   */
 }
 
+/*
 #text:hover{
 
   color: #181717;
   font-weight: bold;
 }
+*/
