@@ -117,13 +117,20 @@ ul{
 img{
 
 	margin: 25px;
-  margin-left: 10px;
-	width: 80%;
+  margin-left: 10px;/**/
+  width: 80%;/**/
 }
 
 #vertical{
 
   width: 38.7%;
+
+}
+
+#vertical_top{
+
+  width: 38.7%;
+  margin-bottom: 600px;
 
 }
 
